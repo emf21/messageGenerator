@@ -1,2 +1,2 @@
 # messageGenerator
-This is a Codecademy project built to generate random messages and numbers
+This is a Codecademy project built in JavaScript to generate random messages and numbers
